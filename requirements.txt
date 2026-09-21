@@ -1,0 +1,8 @@
+pyrogram
+tgcrypto
+pymongo
+requests
+openai
+python-dotenv
+yt-dlp
+aiohttp
